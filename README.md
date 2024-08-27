@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning MERN Stack Web Development
 - 💞️ I’m looking to collaborate on any  project related to web development 
-- 📫 How to reach me on asad13022002@gmail.com
+- 📫 How to reach me asad13022002@gmail.com
 - ⚡ Fun fact: There is always something to learn
 
 <!---
