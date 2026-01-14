@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @asadii-01<br>👀 I’m interested in learning new technologies<br>🌱 I’m currently learning MERN Stack Web Development<br>💞️ I’m looking to collaborate on any project related to web development<br>📫 How to reach me asad13022002@gmail.com<br>⚡ Fun fact: There is always something to learn
+👋 Hi, I’m @asadii-01<br>👀 I’m interested in learning new technologies<br>🌱 I’m a full stack developer mainly working with MERN Stack & Next.js<br>💞️ I’m looking to collaborate on any project related to web development<br>📫 How to reach me asad13022002@gmail.com<br>⚡ Fun fact: There is always something to learn
 
 
 ## 🌐 Socials:
